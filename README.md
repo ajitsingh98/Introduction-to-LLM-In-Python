@@ -4,7 +4,7 @@ Hi, In this project I have implemented LLM from scratch. It contains implementin
 
 
 
-The flow of the repo is following:
+Contents:
 ---
 - Working with textual data
 - Attention Mechanism from scratch
