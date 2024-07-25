@@ -8,6 +8,7 @@ Contents:
 ---
 - Working with textual data
 - Attention Mechanism from scratch
+- Encoding Techniques
 - GPT model from scratch
 - Pretraining on Unlabled Data
 - Finetune LLMs for text classification
